@@ -1,7 +1,14 @@
-# Computer-Graphics
+# Computer-Graphics(컴퓨터그래픽스 기말과제)
 
--생존게임의 작은 미션,이라는 가정하에 일부 씬을 구현.
--불을 피우기 위해서 장작을 모음.
+수업 시간에 배운 Vertex mapping, texture mapping, lighting, phong shading, fog 등을 사용하여. 어두운 숲속, 장작을 찾아 불을 피우는 챕터 구현.
+
+```
+
+이동중에 걷는 흔들림 구현
+장작 획득
+Fog 효과로 맵이 끝나는 지점의 경계선을 흐림
+
+```
 
 ---
 
