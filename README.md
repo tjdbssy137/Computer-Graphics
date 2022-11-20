@@ -1,6 +1,7 @@
 # Computer-Graphics(컴퓨터그래픽스 기말과제)
 
-수업 시간에 배운 Vertex mapping, texture mapping, lighting, phong shading, fog 등을 사용하여. 어두운 숲속, 장작을 찾아 불을 피우는 챕터 구현.
+* 개발 언어 : WebGl
+* 수업 시간에 배운 Vertex mapping, texture mapping, lighting, phong shading, fog 등을 사용하여. 어두운 숲속, 장작을 찾아 불을 피우는 챕터 구현.
 
 ```
 
